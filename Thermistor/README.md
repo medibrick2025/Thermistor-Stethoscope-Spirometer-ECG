@@ -1,1 +1,1 @@
-This is the folder for the ECG project, containing all the necessary files.
+This is the folder for the Thermistor project, containing all the necessary files.
